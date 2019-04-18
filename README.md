@@ -1,6 +1,12 @@
 # ZeitplanOptimizer
-A tool for creating customized timetables (for schools with special requirements)
+Ein Software für Zeitplan Optimierug (für Sonderschulen gedacht)
+"A tool for creating customized timetables (for schools with special requirements)"
 
+# Contributors
+Dieses Programm wurde im Rahmen einer Case Study an der TU München erstellt, im Zusammenarbeit mit:
+- Franziska Moßner
+- Anja Kirschner
+- Katherina von Dichter
 
 # Anleitung zu 'Stundenplan Optimizer' Installation
 
